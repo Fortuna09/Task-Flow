@@ -1,8 +1,8 @@
 {
     "titulo": "Task Flow",
-    "objetivo": "Desenvolver uma Single Page Application (SPA) para gerenciamento de tarefas, permitindo ao usuário criar, organizar e priorizar atividades de forma intuitiva.",
-    "desafio": "Implementar o gerenciamento de estado reativo com Vuex para garantir a sincronização de dados e persistir as tarefas com a localStorage API.",
-    "tecnologia": "Vue.js 3, Vuex, Vue Router, Sass, localStorage API",
+    "objetivo": "Sistema prático de organização de atividades construído para elevar a produtividade e reter usuários por meio de uma interface Single Page Application (SPA) veloz e responsiva.",
+    "desafio": "Sincronizar uma arquitetura de estado complexa com Vuex em tempo real, aliando com estratégias de persistência local para prevenir inconsistências e vazamento de regras de negócios.",
+    "tecnologia": "Vue.js 3, Vuex, Vue Router, JavaScript, Sass",
     "imagem": "/Projeto4.png",
-    "tags": ["Vue", "Front-end"]
+    "tags": ["Vue.js", "JavaScript", "SPA", "Front-end"]
   }
